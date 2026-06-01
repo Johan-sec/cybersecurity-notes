@@ -1,2 +1,7 @@
 # cybersecurity-notes
-Here i will be noting what i am learning throughout my journey of cybersecurity on tryhackme.
+I am learning cybersecurity through Tryhackme, networking, Linux, and security.
+
+This repository contains:
+- notes
+- commands
+- small writeups
